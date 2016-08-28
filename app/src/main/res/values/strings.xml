@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smoking Cessation</string>
+    <string name="btnStartText">Start Capturing Data</string>
+    <string name="btnStopText">Stop</string>
+    <string name="btnConsentText">Click to give consent for heart rate recording</string>
+    <string name="btnDeleteText">Delete Data</string>
+</resources>
